@@ -1,0 +1,14 @@
+{
+  "name": "To_Do_List_Json",
+  "version": "1.0.0",
+  "description": "# This todo app is an example of a notebook. The app allows: - Add tasks to notebook - Delete tasks - Filter tasks - Prioritize tasks for completion",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^8.3.2"
+  }
+}
